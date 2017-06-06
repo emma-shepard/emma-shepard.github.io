@@ -5,11 +5,12 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Experience"
+      href: Experience.html
     - icon: fa-envelope fa-lg
       href: mailto:<emmamshepard@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/emma-shepard/
-    - text: "Experience"
-      href: Experience.html
 output:
-  html_document
+  html_document:
+    theme: flatly
