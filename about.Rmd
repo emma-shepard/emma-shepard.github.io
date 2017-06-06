@@ -8,4 +8,4 @@ Emma Shepard is a second year masters student in the Biostatistics Department at
 She received her B.S. in International Health from Georgetown University. 
 
 
-<img src="Images/IMG_0383.jpg">
+<img src="Images/Photo1.jpg">
