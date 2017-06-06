@@ -9,5 +9,7 @@ navbar:
       href: mailto:<emmamshepard@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/emma-shepard/
+    - text: "Experience"
+      href: Experience.html
 output:
   html_document
