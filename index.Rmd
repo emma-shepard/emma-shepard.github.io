@@ -1,7 +1,6 @@
 ---
-title: "Holy cow!"
+title: "Emma Shepard"
 ---
 
-### I have a webpage!
+### In Progress
 
-And I can put all kinds of stuff on it!
