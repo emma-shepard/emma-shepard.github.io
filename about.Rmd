@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am currently a second year masters student in the [Biostatistics Department] (https://www.mailman.columbia.edu/become-student/departments/biostatistics) at [Columbia University Mailman School of Public Health] (https://www.mailman.columbia.edu/). My focus is pharmaceutical statistics. I have worked as a teaching assistant for both Randomized Clinical Trials and Introduction to SAS courses.
+I am currently a second year masters student in the [Biostatistics Department](https://www.mailman.columbia.edu/become-student/departments/biostatistics) at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/). My focus is pharmaceutical statistics. I have worked as a teaching assistant for both Randomized Clinical Trials and Introduction to SAS courses.
 
 
 I received my B.S. in International Health from [Georgetown University](https://www.georgetown.edu/) in 2013. For my thesis, I designed and conducted a study to assess the causes of persistant "hotspots" of lymphatic filariasis in Tamil Nadu, India.
@@ -15,4 +15,4 @@ My resume is available [here](Downloads/Shepard Emma Resume 2017.pdf)
 
 
 ## Contact Information
-Email: ems2285@columbia.edu
+Email: [ems2285@columbia.edu](mailto:ems2285@columbia.edu)
